@@ -1,6 +1,6 @@
 # 2048 QBasic edition
 
-![Screenshot of 2048 QBasic edition](http://i.imgur.com/3x3W18R.png)
+![Screenshot of 2048 QBasic edition](http://i.imgur.com/5DRTb8o.png)
 
 As the title implies, a Qbasic version of "2048", as popularized by [Gabriele Cirulli](http://gabrielecirulli.github.io/2048/).
 
